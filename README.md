@@ -1,5 +1,11 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E38E1A&height=120&section=header"/>
+
+<div width=50% align="center">
   <h1>Atividades Java</h1>
+</div>
+
+<div width=50% align="center">
+    <img src="https://logospng.org/download/java/logo-java-512.png" width="100px" align='right'>
 </div>
 
 <div align="justify">
@@ -33,3 +39,5 @@
   <h2>Contribuindo</h2><br>
   <p>Se você deseja contribuir com novas atividades ou aprimorar as existentes, sinta-se à vontade para enviar um pull request. As contribuições são sempre bem-vindas!</p>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E38E1A&height=120&section=footer"/>
